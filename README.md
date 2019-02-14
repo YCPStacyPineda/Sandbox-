@@ -1,5 +1,3 @@
-# Sandbox-
-Our sandbox project for our web design class
+# Sandbox
 
-
-My YCP in-class project - professor: tmckenna1@ycp.edu 
+My sandbox folder for YCP's Web Design 2 class for Spring 2019.
